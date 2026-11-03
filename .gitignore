@@ -1,0 +1,19 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary Test Files (Zero Residue)
+TEST_REPORT.md
+RESPONSIVE_CHECKLIST.md
+CHANGELOG.md
+TEST_PLAN.md
+
+# Logs
+*.log
