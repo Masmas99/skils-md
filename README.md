@@ -16,20 +16,19 @@ Anyone can install the entire **Masmas Development System** into their local Ant
 
 ### Windows (PowerShell)
 ```powershell
-irm https://raw.githubusercontent.com/USERNAME/REPO/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/Masmas99/skils-md/main/install.ps1 | iex
 ```
-*(Ganti `USERNAME/REPO` dengan username dan nama repository GitHub milikmu)*
 
 Atau clone dan jalankan lokal:
 ```powershell
-git clone https://github.com/USERNAME/REPO.git masmas-skills
+git clone https://github.com/Masmas99/skils-md.git masmas-skills
 cd masmas-skills
 .\install.ps1
 ```
 
 ### macOS / Linux (Bash)
 ```bash
-git clone https://github.com/USERNAME/REPO.git masmas-skills
+git clone https://github.com/Masmas99/skils-md.git masmas-skills
 cd masmas-skills
 chmod +x install.sh && ./install.sh
 ```
