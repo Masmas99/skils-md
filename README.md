@@ -144,3 +144,4 @@ AI agent akan otomatis:
 ## 📄 Lisensi
 
 Didistribusikan di bawah Lisensi [MIT](LICENSE). Bebas digunakan, dimodifikasi, dan dibagikan oleh siapa saja.
+"# skils-md" 
