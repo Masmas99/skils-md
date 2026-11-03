@@ -91,11 +91,17 @@ masmas-development-system/
 │   ├── mandatory-testing.md            # Zero residue test cleanup
 │   ├── security-first.md               # OWASP Top 10, sanitization, CSRF safety
 │   ├── performance-first.md            # Core Web Vitals (LCP, CLS, INP)
-│   └── clean-code.md                   # SOLID, DRY, KISS, modular architecture
+│   ├── clean-code.md                   # SOLID, DRY, KISS, modular architecture
+│   ├── zero-configuration-hell.md      # Single-file / CDN first (No dependency hell)
+│   ├── no-stack-trace-dumps.md         # Auto-repair first (Never dump raw traces)
+│   ├── instant-visual-feedback.md      # Action loading states, toasts, & skeleton loaders
 │
 ├── skills/                             # 16 Progressive Operational Skills
 │   ├── skilsmashudi/SKILL.md           # [MASTER COMMAND] Triggered via /skilsmashudi
 │   ├── landingpage-dashboard/SKILL.md  # Animated landing page + private left-sidebar dashboard
+│   ├── mock-data-generator/SKILL.md    # Authentic copy & Unsplash images (Anti-Lorem Ipsum)
+│   ├── self-healing-debugger/SKILL.md  # Autonomous bug repair without stack trace dumps
+│   ├── delight-interactions/SKILL.md   # Toast notifications, button spinners, & micro-interactions
 │   ├── responsive-design/SKILL.md      # Multi-device responsive design implementation
 │   ├── prd-generator/SKILL.md          # On-demand PRD drafting
 │   ├── stack-detector/SKILL.md         # Environment & dependency stack analyzer
