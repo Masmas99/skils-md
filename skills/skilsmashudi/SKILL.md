@@ -60,7 +60,8 @@ When `/skilsmashudi` is triggered, execute the following 5-phase streamlined pip
 - STRICTLY FORBIDDEN from creating colorful, rainbow, or multi-colored cluttered interfaces.
 - MANDATORY: Always ask the user for their preferred primary color and theme before applying styles.
 - STRICTLY FORBIDDEN from using non-essential or decorative icons.
-- STRICTLY FORBIDDEN from generating generic floating hero pill badges (e.g., *"Tersedia untuk Proyek Baru & Konsultasi"*, *"Available for hire"*).
+- STRICTLY FORBIDDEN from generating floating hero pill badges, category chips, or eyebrow tags (e.g., 'TOKO KIPAS ANGIN RESMI BERGARANSI', 'Tersedia untuk Proyek Baru').
+- STRICTLY FORBIDDEN from using multi-colored or rainbow icons. All icons must be strictly monochromatic. (e.g., *"Tersedia untuk Proyek Baru & Konsultasi"*, *"Available for hire"*).
 - MANDATORY: Delete all temporary test files (`TEST_REPORT.md`, `RESPONSIVE_CHECKLIST.md`, `CHANGELOG.md`) after testing.
 
 ## 6. Testing Checklist

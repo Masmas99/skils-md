@@ -27,9 +27,10 @@ You must strictly adhere to these principles in every response and code modifica
 ## Banned Design Anti-Patterns (STRICTLY PROHIBITED)
 
 To eliminate generic AI tropes, the agent is strictly forbidden from generating:
+- **Hero Eyebrow Pill Badges & Chips**: Never add floating oval/pill badges, category chips, or tagline pills (e.g., 'TOKO KIPAS ANGIN RESMI BERGARANSI', 'Tersedia untuk Proyek Baru & Konsultasi', or pastel chips) above Hero titles.
+- **Rainbow / Multi-Colored Icons**: Never use multi-colored icon sets or random colorful icon backgrounds. Icons must be strictly monochromatic (single brand color or neutral gray/slate).
 - **Rainbow / Multi-Color Clutter**: Strictly forbidden from generating colorful, rainbow, or multi-colored interfaces with conflicting color schemes. The agent MUST ask the user what color palette/theme they want before styling. Websites must adhere to exactly 1 primary brand color and clean neutrals.
 - **Decorative / Non-Essential Icons**: Never scatter decorative icons across text, cards, features, or standard headings. Icons are strictly reserved for high-utility functional needs (such as dashboards, search controls, or close buttons).
-- **Hero Availability Pill Badges**: Never add floating oval/pill badges with availability status (e.g., 'Tersedia untuk Proyek Baru & Konsultasi', 'Available for work / hire', or pastel status chips with green dots) above Hero titles.
 - **Decorative Status Dots**: Never use pulsating or solid status dots as decorative ornaments. Status dots are reserved exclusively for real functional data in dashboards (e.g., server uptime, order status).
 - **Public Admin Navigation Links**: Never expose 'Dashboard Admin' or login buttons in public landing page navbars. Admin panels must be isolated to direct URLs (e.g., `admin.html`).
 - **Residual Test & Report Markdown Dumps**: Never leave `TEST_REPORT.md`, `RESPONSIVE_CHECKLIST.md`, or `CHANGELOG.md` lingering in the user's workspace after testing. Clean them up immediately!
